@@ -5,7 +5,7 @@ class Swiftpolyglot < Formula
   version "2.0.0"
 
   url "https://github.com/appdecostudio/SwiftPolyglot/releases/download/v#{version}/swiftpolyglot-#{version}-macos.tar.gz"
-  sha256 "1654ffdd8807cb56fafa086aead31738316168622cbe30c0abc6cbe026d8f244"
+  sha256 "289dab74591fbd05ace81a41eb0122c1663ed44256451825655b3f99a6c7a050"
 
   depends_on :macos
 
